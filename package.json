@@ -1,0 +1,16 @@
+{
+  "name": "weather-sli",
+  "version": "1.0.0",
+  "description": "sli for getting weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sli",
+    "weather",
+    "node.js"
+  ],
+  "author": "Bogdan Samonov",
+  "license": "ISC"
+}
